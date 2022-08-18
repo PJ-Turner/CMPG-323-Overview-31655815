@@ -3,6 +3,14 @@
 
 I will add the .gitnore fole to my main directory of the project. The purpose of this file will be to exclude certain files from commits to my main branch. This will be my tester files that I use to insure that my code is working, these files will not be crucial to the working of my project and may cause  errors.
 
+My branching strategy consists of the following branches:
+
+- Master 
+- Develop
+- Feature: to develop new features that branches off the develop branch 
+- Release: assist in the development of a new production release; typically split from the develop branch and has to be merged back into both develop and master
+- Hotfix: also helps in preparing for a release, whereas hotfix branches are created in response to bugs that have been identified and need to be corrected; this allows developers to continue working on their own improvements on the develop branch while the bug is being fixed.
+
 Create and Configure GitHub
 Repository
 Create a repository named ‘CMPG
