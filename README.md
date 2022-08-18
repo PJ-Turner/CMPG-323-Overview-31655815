@@ -24,8 +24,6 @@ Create the following Labels:
 - Class
 - Project
 - Training
-- <any other labels you might find
-relevant>
 
 Add a ReadME.md file to the
 repository
