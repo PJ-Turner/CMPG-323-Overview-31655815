@@ -122,3 +122,171 @@ project:
 - Burndown Chart
 
 ## Project 2
+
+Create and Configure
+GitHub Repository
+Create a repository named ‘CMPG
+323 Project 2 - <add your student
+number>’
+
+Create a ReadME.md file that will
+be used to describe your project
+and how stakeholders are to use
+the report that you have developed
+
+Project Progress Ensure that the report has been
+committed and pushed to source
+control throughout the project
+
+Ensure that the GitHub project has
+been updated iteratively throughout
+the project to demonstrate how
+progress was made
+
+Prepare the
+Data Source
+Configure the Database Create a SQL Server with a secure
+service account username and
+password on Azure
+
+Create a F1 tier (free) database on
+the Azure SQL Server
+
+Run the provided SQL script that
+will create the relevant tables
+
+Project Setup Create the API project Clone your GitHub repository 2
+Create a new .NET Core Web API
+project
+
+Connect the API to the data
+source
+Scaffold the database into the
+project (connect the project to the
+database)
+
+Apply dependency injection - add
+the scaffolded DBContext to the
+Startup.cs
+
+Functionality Build Device Management
+Functionality
+Create a GET method that retrieves
+all Device entries from the
+database
+
+Create a GET method that will
+retrieve one Device from the
+database based on the ID parsed
+through
+
+Create a POST method that will
+create a new Device entry on the
+database
+
+Create a PATCH method that will
+update an existing Device entry on
+the database
+
+Create a DELETE method that will
+delete an existing Device entry on
+the database
+
+Add a private method in the API
+that checks if a Device exists
+(based on the ID parsed through)
+before editing or deleting an item
+
+Build Zone Management
+Functionality
+Create a GET method that retrieves
+all Zone entries from the database
+
+Create a GET method that will
+retrieve one Zone from the
+database based on the ID parsed
+through
+
+Create a POST method that will
+create a new Zone entry on the
+database
+
+Create a PATCH method that will
+update an existing Zone entry on
+the database
+
+Create a DELETE method that will
+delete an existing Zone entry on
+the database
+
+Add a private method in the API
+that checks if a Zone exists (based
+on the ID parsed through) before
+editing or deleting an item
+
+Create a GET method that retrieves
+all devices within a specific zone
+(based on the zone ID that is
+parsed through)
+
+Build Category
+Management Functionality
+Create a GET method that retrieves
+all Category entries from the
+database
+
+Create a GET method that will
+retrieve one Category from the
+database based on the ID parsed
+through
+
+Create a POST method that will
+create a new Category entry on the
+database
+
+Create a PATCH method that will
+update an existing Category entry
+on the database
+
+Create a DELETE method that will
+delete an existing Category entry
+on the database
+
+Add a private method in the API
+that checks if a Category exists
+(based on the ID parsed through)
+before editing or deleting an item
+
+Create a GET method that retrieves
+all devices within a specific
+category (based on the category ID
+that is parsed through)
+
+Create a GET method that will
+return the number of zones that are
+associated to a specific category
+(use the device entity to join the
+data)
+
+Project Closeout
+Security Ensure that authentication has
+been set up to restrict access to the
+API
+
+Ensure that no credentials are
+stored on GitHub
+
+Web API Cloud Hosting Create an API Service (connected
+to an F1 tier (free) service plan)
+
+Publish your API to the service
+hosted on Azure and ensure the
+API is secure and accessible
+
+Project Documentation Ensure that the ReadMe.md file in
+the GitHub repository explains how
+the user would use the API
+
+Create a reference list document
+that contains all sites visited and
+used to complete the project
