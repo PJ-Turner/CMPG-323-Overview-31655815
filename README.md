@@ -1,6 +1,8 @@
 # CMPG-323-Overview-31655815
 ## Project 1
 
+I will add the .gitnore fole to my main directory of the project. The purpose of this file will be to exclude certain files from commits to my main branch. This will be my tester files that I use to insure that my code is working, these files will not be crucial to the working of my project and may cause  errors.
+
 Create and Configure GitHub
 Repository
 Create a repository named ‘CMPG
