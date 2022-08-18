@@ -7,7 +7,7 @@ Create a repository named ‘CMPG
 323 Overview - <add your student
 number>
 Create the following Milestones:
-## Project 1 Submission: Deadline –
+- Project 1 Submission: Deadline –
 18 August
 - Project 2 Submission: Deadline –
 8 September
