@@ -11,12 +11,8 @@ My branching strategy consists of the following branches:
 - Release: assist in the development of a new production release; typically split from the develop branch and has to be merged back into both develop and master
 - Hotfix: also helps in preparing for a release, whereas hotfix branches are created in response to bugs that have been identified and need to be corrected; this allows developers to continue working on their own improvements on the develop branch while the bug is being fixed.
 
-Create and Configure GitHub
-Repository
-Create a repository named ‘CMPG
-323 Overview - <add your student
-number>
-Create the following Milestones:
+There will be one Repository with 5 different projects.
+
 - Project 1 Submission: Deadline –
 18 August
 - Project 2 Submission: Deadline –
