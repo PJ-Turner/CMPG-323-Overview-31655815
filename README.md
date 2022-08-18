@@ -26,44 +26,41 @@ Create the following Labels:
 - Training
 - <any other labels you might find
 relevant>
-2
+
 Add a ReadME.md file to the
 repository
 In the ReadME.md, address which
 repositories will be created and used
 for each project
-1
+
 In the ReadME.md, provide a
 diagram explaining project and
 repository context and how they are
 integrated
-3
+
 In the ReadME.md, explain the
 branching strategy to be used within
 each project
-3
+
 In the ReadME.md, explain the use
 of a .gitignore file within each project
-3
+
 In the ReadME.md, explain the
 storage of credentials and sensitive
 information
-3
-GitHub
-Project
-Create and configure GitHub
-project
+
+GitHub Project
+Create and configure GitHub project
 Create a GitHub Kanban project 1
-Link the GitHub repository to the
-project
-2
+Link the GitHub repository to the project
+
 Ensure that the project is named
 appropriately
-3
+
 Ensure that the project has a
 description adequately describing the
 project
-3
+
 Add the following columns:
 - Linked Assessment (field
 type = text)
@@ -74,7 +71,7 @@ as options with sprint start
 and end date)
 - Effort (in Hours) (field type =
 number)
-2
+
 Create and populate project
 views
 Create a table view within the project
@@ -83,24 +80,24 @@ named ‘Tabular View’
 Pull Request and Repository
 as fields to the view
 - Hide the Assignees field
-2
+
 Create a board view within the
 project, named ‘Status View’
 - Group by Status
-2
+
 Create a board view within the
 project, named ‘Sprint View’
 - Group by Sprint
-2
+
 Create a table view within the
 project, named ‘Linked Assessment
 View’
 - Group by Linked Assessment
-3
+
 Create an additional customised
 view that provides you with additional
 insight into your semester progress
-4
+
 Populate the ‘Tabular View board’
 with the following as tasks:
 - All CMPG 323 classes
@@ -116,7 +113,7 @@ attached to milestones)
 - All tasks associated to
 completing the CMPG 323
 Portfolio of Evidence (POE)
-1
+
 Create and configure project
 charts
 Add the following charts to the
