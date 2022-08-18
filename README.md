@@ -129,7 +129,7 @@ Create a repository named ‘CMPG
 323 Project 2 - <add your student
 number>’
 
-Create a ReadME.md file that will
+- Create a ReadME.md file that will
 be used to describe your project
 and how stakeholders are to use
 the report that you have developed
@@ -138,30 +138,27 @@ Project Progress Ensure that the report has been
 committed and pushed to source
 control throughout the project
 
-Ensure that the GitHub project has
+- Ensure that the GitHub project has
 been updated iteratively throughout
 the project to demonstrate how
 progress was made
 
-Prepare the
-Data Source
+Prepare the Data Source
 Configure the Database Create a SQL Server with a secure
 service account username and
 password on Azure
 
-Create a F1 tier (free) database on
+- Create a F1 tier (free) database on
 the Azure SQL Server
 
-Run the provided SQL script that
+- Run the provided SQL script that
 will create the relevant tables
 
 Project Setup Create the API project Clone your GitHub repository 2
-Create a new .NET Core Web API
-project
+- Create a new .NET Core Web API project
 
-Connect the API to the data
-source
-Scaffold the database into the
+Connect the API to the data source
+- Scaffold the database into the
 project (connect the project to the
 database)
 
@@ -171,24 +168,24 @@ Startup.cs
 
 Functionality Build Device Management
 Functionality
-Create a GET method that retrieves
+- Create a GET method that retrieves
 all Device entries from the
 database
 
-Create a GET method that will
+- Create a GET method that will
 retrieve one Device from the
 database based on the ID parsed
 through
 
-Create a POST method that will
+- Create a POST method that will
 create a new Device entry on the
 database
 
-Create a PATCH method that will
+- Create a PATCH method that will
 update an existing Device entry on
 the database
 
-Create a DELETE method that will
+- Create a DELETE method that will
 delete an existing Device entry on
 the database
 
@@ -202,20 +199,20 @@ Functionality
 Create a GET method that retrieves
 all Zone entries from the database
 
-Create a GET method that will
+- Create a GET method that will
 retrieve one Zone from the
 database based on the ID parsed
 through
 
-Create a POST method that will
-create a new Zone entry on the
+- Create a POST method that will
+- create a new Zone entry on the
 database
 
-Create a PATCH method that will
+- Create a PATCH method that will
 update an existing Zone entry on
 the database
 
-Create a DELETE method that will
+- Create a DELETE method that will
 delete an existing Zone entry on
 the database
 
@@ -224,7 +221,7 @@ that checks if a Zone exists (based
 on the ID parsed through) before
 editing or deleting an item
 
-Create a GET method that retrieves
+- Create a GET method that retrieves
 all devices within a specific zone
 (based on the zone ID that is
 parsed through)
@@ -235,20 +232,20 @@ Create a GET method that retrieves
 all Category entries from the
 database
 
-Create a GET method that will
+- Create a GET method that will
 retrieve one Category from the
 database based on the ID parsed
 through
 
-Create a POST method that will
+- Create a POST method that will
 create a new Category entry on the
 database
 
-Create a PATCH method that will
+- Create a PATCH method that will
 update an existing Category entry
 on the database
 
-Create a DELETE method that will
+- Create a DELETE method that will
 delete an existing Category entry
 on the database
 
@@ -257,21 +254,18 @@ that checks if a Category exists
 (based on the ID parsed through)
 before editing or deleting an item
 
-Create a GET method that retrieves
+- Create a GET method that retrieves
 all devices within a specific
 category (based on the category ID
 that is parsed through)
 
-Create a GET method that will
+- Create a GET method that will
 return the number of zones that are
 associated to a specific category
 (use the device entity to join the
 data)
 
 Project Closeout
-Security Ensure that authentication has
-been set up to restrict access to the
-API
 
 Ensure that no credentials are
 stored on GitHub
@@ -287,6 +281,6 @@ Project Documentation Ensure that the ReadMe.md file in
 the GitHub repository explains how
 the user would use the API
 
-Create a reference list document
+= Create a reference list document
 that contains all sites visited and
 used to complete the project
