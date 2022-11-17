@@ -1,6 +1,6 @@
 # CMPG-323-Overview-31655815
 ## Table of contents
-* [Progects](#read)
+* [Projects](#read)
 * [Read First](#read)
 * [Setup](#setup)
 * [App (How To)](#App)
