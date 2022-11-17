@@ -227,4 +227,226 @@ the user would use the App
 ### Create a reference list document that contains all sites visited and used to complete the project
 
 #### Project 4
+# CMPG-323-Project-4-31655815
+Testing &amp; RPA
+## Table of contents
+* [Read First](#read)
+* [Setup](#setup)
+* [App (How To)](#App)
+* [Requirements](#Requirements)
 
+## Read First
+* My Project Works I followed the rubric and implemented what was asked
+* I Followed all the Requirements
+
+
+## App (How To)
+* The "Log In" Automation Logs in for you with the secure saved credentials.
+* When you are logged in you can Populate the Website with the given data on the Excel sheet by Using The "Insert All Data" Automation.
+* You can also the different delete Automations to Delete all the Categories , Devices and Zones.
+* The Tests are integrated in every Automation.
+* If you are logged out make sure you log in first or use a Automation that logs in first.
+* I did not add one big Flowchart for all the automations , because it doesn’t make sense to Insert,Update,view and then Delete all the data.
+* So The Delete Automations can be done separate.
+
+## Setup
+To run this project, install it locally
+The Proses is Hosted on the UiPath Orchestrator
+[![Uploading orca.png…]()](https://user-images.githubusercontent.com/70144724/197791921-34808f86-c130-4374-b721-c3c72b1d5e6f.png)
+
+* [Requirements](#Requirements)
+	
+## Requirements the was Followed
+### GitHub Administration
+* Create and Configure GitHub Repository
+* Create a ReadME.md file 
+* Ensure that the solution has been 
+committed and pushed to source 
+control throughout the project
+* Ensure that the GitHub project has 
+been updated iteratively throughout 
+the project to demonstrate how 
+progress was made
+
+### Project Setup
+* Clone your GitHub repository 2
+Install UiPath Studio 1
+* Create a new UiPath process named 
+‘Connected Office Web Application –
+User Acceptance Testing
+
+### User Acceptance Testing
+* Transfer all data access operations 
+from the Devices controller to the 
+Devices Repository class
+* Transfer all data access operations 
+from the Zones controller to the 
+Zones Repository class
+* Transfer all data access operations 
+from the Categories controller to the 
+Categories Repository class
+
+### Implement repository classes
+* Read the data from Excel into a data 
+table in UiPath
+Ensure that the data is readable and 
+iterated over in UiPath
+* UI Automation: For each record in the data table, 
+navigate to the URL in the browser 
+that allows data to be entered to 
+create a new record
+* Insert the fields from each record into 
+the fields on the web application to 
+create a new record on the web 
+application
+* Click the ‘submit’ button on the web 
+application to create a new record on 
+the web application once the data 
+fields have been inserted
+*Navigate to the URL where you can 
+view the newly created record on the 
+web application
+
+### Record Results 
+* If the item was created successfully, 
+update the data table record to 
+depict that the record passed testing. 
+* If the item was not created, update 
+the data table to depict that the 
+record failed testing
+* Update the Excel spreadsheet with 
+the testing results (Test Results tab 
+of the Excel file provided)
+
+### Deploy Solution
+*Publish the UiPath solution to the 
+UiPath Orchestrator
+
+### Project Documentation 
+* Ensure that the ReadMe.md file in 
+the GitHub repository explains how 
+the user would use the report
+
+### Create a reference list document that contains all sites visited and used to complete the project
+
+#### Project 5
+# CMPG-323-Project-5-31655815
+
+Reporting & Monitoring
+## Table of contents
+* [Read First](#read)
+* [Setup](#setup)
+* [(How To)](#App)
+* [Requirements](#Requirements)
+
+## Read First
+* I Followed all the Requirements on the rubric and implemented what was asked.
+* All needed documents is added in this Repo
+* Please mark the Reference Document in the Repo.
+* I tried connecting to the provided excel file directly but for some reason it didn’t let me create a live connection. 
+* After that I decided to host use the SQL database on Azure but, this also did not work because my subscription is not valid anymore , I tried creating a new subscription and create a new database but this also needed up unsuccessful.
+
+
+
+## (How To)
+* This Project is created in Power Bi with 3 main pages
+* - High-Level Metrics
+* - Device Monitoring
+* - Device Registration
+
+## Setup
+To run this project.
+The Project can be opened in Power BI , The needed database is also added.
+ensure that dit file is conected.
+
+* [Requirements](#Requirements)
+	
+## Requirements that was Followed
+### GitHub Administration
+* Create and Configure GitHub Repository
+* Create a ReadME.md file 
+* Ensure that the solution has been 
+committed and pushed to source 
+control throughout the project
+* Ensure that the GitHub project has 
+been updated iteratively throughout 
+the project to demonstrate how 
+progress was made
+
+### Project Setup
+* Clone your GitHub repository 
+* Install Power BI
+* Configure the Connection 
+to Data Sources
+* Create a live connection to the data 
+sources that will be used as part of 
+the visualisations to be created
+* Ensure that the data connection is 
+secure
+* Ensure that the data sources are 
+appropriately mapped, where 
+necessary
+
+
+### Implement Data Manipulation
+* Ensure that the datasets are cleaned 
+and all duplicates are removed
+* Ensure that all imported data fields 
+are associated to the correct data 
+types
+* Create at least one calculated 
+column to enhance the quality of 
+your dataset
+* Create at least one key measure that 
+will enhance the quality of your 
+visualisations
+
+### Report Development
+## High-Level Metrics 
+* Add a summary view that shows 
+business stakeholders a high-level 
+view of the ‘important’ data. 
+* This generally would refer to counts 
+of data points based on information 
+that could impact decision making.
+
+## Device Monitoring
+* Create a visual that allows the user 
+to monitor devices per category
+* Create a visual that allows the user 
+to monitor devices per zone
+* Create a visual that allows the user 
+to monitor online versus offline 
+devices (status should depict 
+whether a device is online or offline)
+
+## Device Registration 
+* Create a visual that allows the user 
+to see how many devices have been 
+registered over a timespan
+* Create a visual that allows the user 
+to see how many categories of 
+devices have been created
+* Create a visual that allows the user 
+to see how many zones contain 
+registered devices on a timeline
+
+## Filtering 
+* Make use of filters that can be 
+applied across pages and visuals
+* Add a filter for users to filter the 
+report based on device category
+* Add a filter for users to filter the 
+report based on device platform
+* Add a filter for users to filter the 
+report based on device zone
+* Add a filter for users to filter the 
+report based on device registration 
+date
+
+### Project Documentation 
+* Ensure that the ReadMe.md file in 
+the GitHub repository explains how 
+the user would use the report
+
+### Create a reference list document that contains all sites visited and used to complete the project
