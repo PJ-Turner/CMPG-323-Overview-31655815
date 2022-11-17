@@ -17,7 +17,6 @@ My branching strategy consists of the following branches:
 - Release: assist in the development of a new production release; typically split from the develop branch and has to be merged back into both develop and master
 - Hotfix: also helps in preparing for a release, whereas hotfix branches are created in response to bugs that have been identified and need to be corrected; this allows developers to continue working on their own improvements on the develop branch while the bug is being fixed.
 
-There will be one Repository with 5 different projects.
 
 - Project 1 Submission: Deadline –
 18 August
@@ -36,7 +35,7 @@ Create the following Labels:
 - Class
 - Project
 - Training
-
+#### Project 1
 Add a ReadME.md file to the
 repository
 In the ReadME.md, address which
@@ -133,7 +132,7 @@ project:
 - Number of Items by Sprint
 - Burndown Chart
 
-
+#### Project 3
 ## Read First
 * My Project has some Errors I tried to resolve them but some things are still not working properly
 * By Implementing the Dependency Injection 80% was working but some things just dont want to
@@ -226,3 +225,6 @@ the GitHub repository explains how
 the user would use the App
 
 ### Create a reference list document that contains all sites visited and used to complete the project
+
+#### Project 4
+
